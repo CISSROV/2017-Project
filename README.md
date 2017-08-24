@@ -1,2 +1,1 @@
-Concordia Underwater Robotics for MATE 2017
-===================
+# Concordia ROV Project archive files from 2017 competition
